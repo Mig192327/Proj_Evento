@@ -1,0 +1,29 @@
+Agenda de Compromissos
+
+
+1ª Fase - Etapa Funcional (todas as operações tem que estar funcionando)
+
+Criar aplicação web para realizar o cadastramento e controle dos seus compromissos
+
+Para cadastrar os compromissos é necessários termos os seguintes campos:
+
+Código do evento (ID), Nome do evento, Data do Evento, Hora de inicio do evento, hora de fim do evento, descrição do evento, local do evento, responsável evento.
+
+Quais as funções da agenda
+
+Cadastrar evento
+Consultar evento
+Listar todos os eventos
+Atualizar evento
+Remover evento
+
+2ª Fase - Etapa Visual (aplicar CSS no projeto)
+
+Associar a utilização de elementos visuais mais elegantes
+
+Observação importante: 
+
+- Atividade deve ser desenvolvida no máximo em duplas, mas a entrega é individual.
+- Se um dos membros da dupla não fizer a postagem da atividade, sua menção será I
+- A entrega deve ser feita a partir dos seus repositórios do GitHub
+- O script do banco de dados deve estar incluido no repositório
